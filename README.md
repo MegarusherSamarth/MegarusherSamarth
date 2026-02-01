@@ -14,7 +14,7 @@
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cmake,docker,git,linux,postgresql,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,cmake,java,html5,css3,git,sql,mysql,mongodb,wordpress,tensorflow,pytorch" />
 </p>
 
 ---
