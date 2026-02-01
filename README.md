@@ -19,26 +19,52 @@
 
 ## 🔧 Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,git,mysql,mongodb,wordpress,tensorflow,pytorch" />
+**Programming:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
 </p>
 
-- **Programming:** Python, C/C++, Java, JavaScript  
-- **Databases:** MySQL, Oracle SQL, MongoDB  
-- **Tools:** Power BI, Excel, Git/GitHub, Jupyter, Eclipse, VS Code  
-- **Web & CMS:** HTML, CSS, WordPress, WooCommerce  
-- **Data Science & ML:** Pandas, NumPy, Matplotlib, Scikit-Learn, XGBoost, TensorFlow, OpenCV  
+**Databases:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white" />
+</p>
+
+**Tools:**  
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,jupyter,vscode" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
+</p>
+
+**Web & CMS:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,wordpress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" />
+</p>
+
+**Data Science & ML:**  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Work Experience
 
-- **Cyber Security Intern** – Graphic Era Hill University (Jul–Aug 2025)  
+- **Cyber Security Intern** – Graphic Era Hill University 
   - Trained in network security, threat detection, and Cisco Network Academy curriculum.  
   - Conducted vulnerability analysis and applied defensive strategies.  
   - Achieved Cisco certifications in Network Defense & Cybersecurity Essentials.  
 
-- **Web Developer Intern** – Cypher Squad LLP (Jul–Aug 2025)  
+- **Web Developer Intern** – Cypher Squad LLP
   - Built a fully functional e-commerce site using WordPress & WooCommerce.  
   - Customized themes, plugins, and payment gateways.  
   - Ensured responsive design and cross-browser compatibility.  
