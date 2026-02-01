@@ -3,29 +3,74 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=MEGARUSHER%20Samarth&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 👋 Hi, I'm MEGARUSHER (Samarth)
+# 👋 Hi, I'm Samarth Agarwal (MEGARUSHER)
 
 🚀 Visionary technologist & systems architect  
 ⚡ Building **modular, audit-ready HFT simulators** and **secure e-voting platforms**  
-📊 Focused on **scalable backend architectures** and **research-ready workflows**
+📊 Focused on **scalable backend architectures**, **data science**, and **research-ready workflows**
 
 ---
 
-## 🔧 Tech Stack
+## 🎓 Education
+
+- **B.Tech, Computer Science & Engineering** – Graphic Era Hill University (2022–2026)  
+
+---
+
+## 🔧 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cmake,java,html5,css3,git,sql,mysql,mongodb,wordpress,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,git,mysql,mongodb,wordpress,tensorflow,pytorch" />
 </p>
+
+- **Programming:** Python, C/C++, Java, JavaScript  
+- **Databases:** MySQL, Oracle SQL, MongoDB  
+- **Tools:** Power BI, Excel, Git/GitHub, Jupyter, Eclipse, VS Code  
+- **Web & CMS:** HTML, CSS, WordPress, WooCommerce  
+- **Data Science & ML:** Pandas, NumPy, Matplotlib, Scikit-Learn, XGBoost, TensorFlow, OpenCV  
 
 ---
 
-## 📂 Featured Projects
+## 💼 Work Experience
 
-- [**HFT-Simulator**](https://github.com/MegarusherSamarth/HFT-Simulator)  
-  Modular, audit-ready trading simulator with C++ engines, Python strategies, and Jupyter notebooks.  
-  - Real-time equity curve + action distribution plots  
-  - Live Binance tick integration with synthetic signals  
-  - CSV audit logs for reproducibility  
+- **Cyber Security Intern** – Graphic Era Hill University (Jul–Aug 2025)  
+  - Trained in network security, threat detection, and Cisco Network Academy curriculum.  
+  - Conducted vulnerability analysis and applied defensive strategies.  
+  - Achieved Cisco certifications in Network Defense & Cybersecurity Essentials.  
+
+- **Web Developer Intern** – Cypher Squad LLP (Jul–Aug 2025)  
+  - Built a fully functional e-commerce site using WordPress & WooCommerce.  
+  - Customized themes, plugins, and payment gateways.  
+  - Ensured responsive design and cross-browser compatibility.  
+
+---
+
+## 📂 Projects
+
+- **High Frequency Trading Simulator** 
+  *Tech Stack: C/C++, std::thread, nlohmann/json*  
+  - Modular C++ HFT simulator with multi-threaded backend.  
+  - UDP market data listeners, JSON parsing, latency modeling.  
+
+- **Lexical Analyzer** 
+  *Tech Stack: Python (re, sys)*  
+  - Tokenized source code into finite state automata.  
+  - Regex-based recognition for efficient parsing.  
+
+- **Deadlock Simulator** 
+  *Tech Stack: Python (sys)*  
+  - Implemented Banker's Algorithm to detect/prevent deadlocks.  
+  - Simulated OS-level concurrency and resource allocation.  
+
+---
+
+## 📜 Certifications
+
+- Oracle SQL Explorer – Oracle 
+- Cybersecurity Essentials – Cisco & GEHU 
+- Data Analytics with Python – IIT Roorkee 
+- AWS Cloud Practitioner Essentials – AWS 
+- Programming in Java – IIT Kharagpur 
 
 ---
 
