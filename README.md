@@ -1,6 +1,6 @@
 <!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=MEGARUSHER%20Samarth&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Samarth%20Agarwal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 # 👋 Hi, I'm Samarth Agarwal (MEGARUSHER)
