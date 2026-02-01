@@ -34,8 +34,8 @@
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=git,jupyter,vscode" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,jupyter" />
 </p>
 
 **Web & CMS:**  
