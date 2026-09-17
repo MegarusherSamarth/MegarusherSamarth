@@ -13,6 +13,7 @@
 
 ## 🎓 Education
 
+- ** CDAC, PGCP-AC** - Infoway Technologies Pvt. Ltd. (2026)
 - **B.Tech, Computer Science & Engineering** – Graphic Era Hill University (2022–2026)  
 
 ---
