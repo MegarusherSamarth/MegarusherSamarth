@@ -104,6 +104,26 @@
 
 ## 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://vercel.app" alt="Samarth's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://vercel.app" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://herokuapp.com" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MegarusherSamarth&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MegarusherSamarth&theme=radical" alt="GitHub Streak" />
